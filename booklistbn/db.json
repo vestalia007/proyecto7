@@ -1,0 +1,69 @@
+{
+  "libros": [
+    {
+      "id": "2",
+      "titulo": "Subterra",
+      "autor": "Baldomero Lillo",
+      "genero": "Novela",
+      "cantidad": 3,
+      "descripcion": "Es la primera obra del cuentista chileno Baldomero Lillo, publicada el 12 de julio de 1904. En su primera edición estuvo compuesta de ocho cuentos, casi todos ellos ambientados en las minas de carbón de Lota en la Provincia de Concepción.",
+      "portada": "",
+      "favorito": false
+    },
+    {
+      "id": "3",
+      "titulo": "El cuento de la Criada",
+      "autor": "Margaret Atwood",
+      "genero": "Distopía",
+      "cantidad": 4,
+      "descripcion": "Publicada en 1985, es una novela distópica y una reflexión sobre el trato a la mujer, temas frecuentes en sus obras.",
+      "portada": "elcuentodelacriada.jpg",
+      "favorito": true
+    },
+    {
+      "id": "4",
+      "titulo": "El Buzón de las Impuras",
+      "autor": "Francisca Solar",
+      "genero": "Novela Histórica",
+      "cantidad": 6,
+      "descripcion": "Es una novela histórica de la escritora y periodista chilena Francisca Solar, publicada en 2024, y que usa como punto de partida el incendio de la Iglesia de la Compañía. El buzón de las Impuras desnuda por primera vez quiénes eran las Hijas de María, una cofradía de mujeres de la alta sociedad que lograba convocar a miles de fieles, pero que terminó sepultada bajo las cenizas del templo jesuita en el injusto silencio de la subyugación patriarcal.",
+      "portada": "",
+      "favorito": false,
+      "evaluacion": {
+        "nombre": "Barbara",
+        "comentario": "Libro que habla sobre la sororidad en un hecho histórico olvidado por Chile"
+      }
+    },
+    {
+      "id": "5",
+      "titulo": "El niño que enloqueció de amor",
+      "autor": "Eduardo Barrios",
+      "genero": "Novela",
+      "cantidad": 3,
+      "descripcion": "La novela trata de un niño que se enamora de Angélica, una amiga de su madre. Todo lo que le sucede lo decide escribir en su diario gracias a que un hombre a quien quiere como a su padre, Don Carlos Romeral, le dice que todo lo lleva guardado en un diario. El niño padece de varios trastornos mentales: su abuela no lo quiere y lo odia, sus hermanos tampoco, vive sin haber conocido a su padre y vive enamorado de su profesora Angélica.",
+      "portada": "",
+      "favorito": false
+    },
+    {
+      "id": "6",
+      "titulo": "Ami, el niño de las estrellas",
+      "autor": "Enrique Barrios",
+      "genero": "Infantil",
+      "cantidad": 8,
+      "descripcion": "Pedro, un niño de 10 años pasa sus vacaciones de verano en un pueblo costero. Una noche, en la playa, traba amistad con un niño extraterrestre llamado Ami. Junto a su nuevo amigo, vivirá una serie de experiencias insólitas y sorprendentes: recibirá unas breves lecciones de vuelo, luego él y Ami viajarán a bordo de una nave espacial por diversos lugares del planeta e incluso visitarán otros mundos.",
+      "portada": "",
+      "favorito": false
+    },
+    {
+      "id": "wCYwtjXz1z8",
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "genero": "Distopía",
+      "cantidad": 8,
+      "descripcion": "Es una novela de ciencia ficción escrita por George Orwell y publicada en 1949. La historia se desarrolla en un futuro distópico donde el gobierno controla todos los aspectos de la vida de las personas, incluyendo su pensamiento y comportamiento.",
+      "portada": "",
+      "favorito": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
